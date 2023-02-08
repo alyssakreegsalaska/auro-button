@@ -16,6 +16,7 @@
     "url": "https://github.com/AlaskaAirlines/auro-button"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=14"
